@@ -1,0 +1,5 @@
+{
+  "name": "Office Management System Admin Panel",
+  "description": "A comprehensive admin dashboard for managing office operations including employees, departments, tasks, and memorandums.",
+  "requestFramePermissions": []
+}
